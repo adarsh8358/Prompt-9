@@ -1,0 +1,82 @@
+@media (max-width:600px) {
+
+    .menue{
+        display: none;
+    }
+
+    .logoi{
+        height: 60px;
+        margin-top: 4%;
+        margin-left: 4%;
+    }
+
+    .ri-menu-fill{
+        display: block;
+        margin-right: 5%;
+        margin-top: 8%;
+    }
+
+    .rbutton{
+        margin-right: -35%;
+        margin-top: 6%;
+        height: 30px;
+    }
+    
+    .h11{
+        margin-top: 14%;
+        font-size: 25px;
+        margin-left: 20%;
+    }
+
+    h6{
+        font-size: 10px;
+        margin-left: 20%;
+    }
+
+    p{
+        font-size: 7.5px;
+        margin-left: 20%;
+    }
+
+    .mbutton{
+        height: 32px;
+        width: 116px;
+        margin-left: 20%;
+    }
+
+    .form{
+       height: 320px;
+       width: 220px;
+       margin-left: 22%;
+       margin-top: 20%;
+    }
+
+    .rf{
+        font-size: 13px;
+        padding-left: 70px;
+        padding-top: 18px;
+    }
+    
+
+    input{
+        background-color: rgba(255, 255, 255, 0.089);
+        border-radius: 5%;
+        padding: 4px 8px;
+        margin-left: -11%;
+        margin-top: -5%;
+    }
+    
+    .cb{
+        font-size: 12px;
+    }
+
+    .sb{
+        padding: 2px 5px;
+        margin-left: 21%;
+        margin-top: 8%;
+    }
+    
+    .rb{
+        padding: 2px 5px;
+    }
+}

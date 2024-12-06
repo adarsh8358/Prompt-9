@@ -1,0 +1,179 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.page{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.unsplash.com/photo-1568992688065-536aad8a12f6?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overlay{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.logoi{
+    margin-top: 1%;
+    margin-left: 2.5%;
+    border-radius: 50%;
+}
+
+.menue{
+    display: flex;
+    gap: 55px;
+    padding: 2.5%;
+    margin-right: -43%;
+}
+
+.menue >a{
+    text-decoration: none;
+    color: white;
+}
+
+.menue >a:hover{
+    text-decoration: underline;
+    color: #FFF4B7;
+}
+
+.rbutton{
+    margin-top: 1.5%;
+    margin-right: 2%;
+    height: 45px;
+    padding: 0 16px;
+    border-radius: 8%;
+    color: #000000;
+    background-color: #fff4b796;
+}
+
+.ri-menu-fill{
+    display: none;
+}
+
+
+.h11{
+    margin-left: 13%;
+    margin-top: 3%;
+    font-family: montserrat;
+    font-weight: 900;
+    font-size: 50px;
+    color: rgb(219, 200, 165);
+}
+
+.s1{
+    text-decoration: underline;
+}
+
+.s2{
+    text-decoration: underline;
+}
+
+h6{
+    margin-top: 1.5%;
+    margin-left: 13%;
+    font-family: montserrat;
+    font-weight: 900;
+    font-size: 20px;
+    color: rgb(219, 200, 165);
+}
+
+p{
+    margin-top: 3.5%;
+    margin-left: 13%;
+    font-family: montserrat;
+    font-weight: 900;
+    font-size: 15px;
+    color: rgb(219, 200, 165);
+}
+
+
+.mbutton{
+    margin-top: 3%;
+    margin-left: 13%;
+    height: 45px;
+    padding: 0 16px;
+    border-radius: 8%;
+    color: #000000;
+    background-color: #fff4b796;
+}
+
+
+.form{
+    height: 420px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.432);
+    border-radius: 3%;
+    margin-top: -30%;
+    margin-left: 62%;
+}
+
+.rf{
+    font-family: montserrat;
+    font-weight: 700;
+    font-size: 20px;
+    color: whitesmoke;
+    padding-left: 90px;
+    padding-top: 30px;
+}
+
+
+.detail{
+    margin-top: 13%;
+    margin-left: 12.5%;
+    
+}
+
+input{
+    background-color: rgba(255, 255, 255, 0.089);
+    border-radius: 5%;
+    padding: 8px 30px;
+}
+
+.checkbox{
+    margin-top: 2%;
+}
+
+.sb{
+    margin-left: 29%;
+    padding: 5px 10px;
+    border-radius: 8%;
+    color: #000000;
+    background-color: whitesmoke;
+}
+
+.rb{
+    margin-top: 5%;
+    margin-left: 3%;
+    padding: 5px 10px;
+    border-radius: 8%;
+    color: #000000;
+    background-color: whitesmoke;
+}
+
+.cb{
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+
+
